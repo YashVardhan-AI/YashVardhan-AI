@@ -3,9 +3,8 @@
 
 
 
-</th>
-</tr>
-</table>
+
+
 ## 🗣 Languages
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashVardhan-AI&layout=compact&theme=dark" alt="Yash Vardhan's Top Langs" height="200">
 
