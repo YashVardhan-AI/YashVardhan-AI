@@ -1,6 +1,33 @@
-### Hi there 👋
+<table>
+  <tr>
+    <th width="50%">
 
+![](hello-there-general-kenobi.gif)
 
+👋 I’m @YashVardhan. <br>
+👀 I'm interested in CS, Physics, Maths & Nature. <br>
+🌱 I'm currently learning AI/ML, Data Science. <br>
+📖 Learning Computer enginering in academics. <br>
+📫 Reach me through my socials ———————————⟶
+        </th>
+      
+
+<th>
+
+# 🔗 Socials
+[![GitHub Yash Pawar](https://img.shields.io/github/followers/YashVardhan-AI?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/YashVardhan-AI)
+[![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash834forge@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-vardhan-323101215/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ghost-Emperor#0363)
+[![Twitter](https://img.shields.io/badge/Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@YashVar20)
+[![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/poruskapil1)
+[![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@godofwings)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yash834forge)
+  
+
+</th>
+</tr>
+</table>
 
 
 
@@ -21,6 +48,26 @@
 [![Octave](https://img.shields.io/badge/Octave-learning-3EAECE?style=for-the-badge&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/index) 
 [![Matlab](https://img.shields.io/badge/Matlab-learning-6BA299?style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/) 
 [![GoLang](https://img.shields.io/badge/Golang-Learning-6BA259?style=for-the-badge&logo=Go)](https://golang.org/) 
+
+
+
+## ⚙️ Frameworks
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+## 🔧 Tools
+[![Git](https://img.shields.io/badge/Git-FF5611?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-22A6F2?style=for-the-badge&logo=visualstudio)](https://code.visualstudio.com/)
+[![Vim](https://img.shields.io/badge/Vim-019331?style=for-the-badge&logo=vim)](https://www.vim.org/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-4C4C4C?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-4C4C4C?style=for-the-badge&logo=intellij%20idea)](https://www.jetbrains.com/idea/)
+[![Bash](https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Colab](https://img.shields.io/badge/Google_Colab-FF8C0A?style=for-the-badge&logo=google%20colab&logoColor=white)](https://colab.research.google.com/)
 
 # 📈 Stats
 
