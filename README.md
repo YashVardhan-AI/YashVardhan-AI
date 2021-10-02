@@ -1,20 +1,27 @@
 ### Hi there 👋
 
-<!--
-**YashVardhan-AI/YashVardhan-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+</th>
+</tr>
+</table>
+## 🗣 Languages
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashVardhan-AI&layout=compact&theme=dark" alt="Yash Vardhan's Top Langs" height="200">
+
+[![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Basics-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/HTML-Basics-DD4A24?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
+[![CSS](https://img.shields.io/badge/CSS-Basics-254BDD?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/default.asp) 
+[![Java](https://img.shields.io/badge/Java-Basics-E51F24?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/) 
+[![C++](https://img.shields.io/badge/C++-Basics-6295CB?style=for-the-badge&logo=cplusplus)]()
+[![C](https://img.shields.io/badge/C-Basics-00427E?style=for-the-badge&logo=c&logoColor=white)]() 
+[![R](https://img.shields.io/badge/R-Basics-276DC3?style=for-the-badge&logo=r)](https://www.r-project.org/about.html)
+[![Markdown](https://img.shields.io/badge/Markdown-Basics-0077B5?style=for-the-badge&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
+[![Julia](https://img.shields.io/badge/Julia-learning-8B549B?style=for-the-badge&logo=Julia&logoColor=white)](https://julialang.org) 
+[![Octave](https://img.shields.io/badge/Octave-learning-3EAECE?style=for-the-badge&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/index) 
+[![Matlab](https://img.shields.io/badge/Matlab-learning-6BA299?style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/) 
+[![GoLang](https://img.shields.io/badge/Golang-Learning-6BA259?style=for-the-badge&logo=Go)](https://golang.org/) 
 
 # 📈 Stats
 
