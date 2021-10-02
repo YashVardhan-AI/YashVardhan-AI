@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <p align="center">
     <div style="display: inline-block;margin: auto;">
         <a href="https://github.com/YashVardhan-air">
-            <img src="https://github-readme-stats.vercel.app/api?username=YashVardhan-AI&hide=issue&show_icons=true&theme=gotham" alt="Yash's Github Stats" height="160">
-    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashVardhan-AI&theme=onedark&count_private=true&theme=gotham" height=160>
+            <img src="https://github-readme-stats.vercel.app/api?username=YashVardhan-AI&hide=issue&show_icons=true&theme=gotham" alt="Yash Vardhans's Github Stats" height="160">
+    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashVardhan-AI&theme=onedark&theme=gotham" height=160>
             <!-- [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashVardhan-AI&hide=issues&show_icons=true&theme=darcula)](https://github.com/YashVardhan-AI) -->
             <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashVardhan-AI&layout=compact&theme=darcula)](https://github.com/YashVardhan-AI) -->
         </a>
