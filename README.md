@@ -7,7 +7,7 @@
 👋 I’m @YashVardhan. <br>
 👀 I'm interested in CS, Physics, Maths & Nature. <br>
 🌱 I'm currently learning AI/ML, Data Science. <br>
-📖 Learning Computer enginering in academics. <br>
+📖 Learning Computer Science in academics. <br>
 📫 Reach me through my socials ———————————⟶
         </th>
       
