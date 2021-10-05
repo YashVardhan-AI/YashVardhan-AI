@@ -48,7 +48,7 @@
 [![Octave](https://img.shields.io/badge/Octave-learning-3EAECE?style=for-the-badge&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/index) 
 [![Matlab](https://img.shields.io/badge/Matlab-learning-6BA299?style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/) 
 [![GoLang](https://img.shields.io/badge/Golang-Learning-6BA259?style=for-the-badge&logo=Go)](https://golang.org/) 
-
+![C#](https://img.shields.io/badge/CSharp-Learning-6BA259?style=for-the-badge&logo=c-sharp)
 
 
 ## ⚙️ Frameworks
@@ -68,7 +68,7 @@
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-4C4C4C?style=for-the-badge&logo=intellij%20idea)](https://www.jetbrains.com/idea/)
 [![Bash](https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Colab](https://img.shields.io/badge/Google_Colab-FF8C0A?style=for-the-badge&logo=google%20colab&logoColor=white)](https://colab.research.google.com/)
-
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 # 📈 Stats
 
 
