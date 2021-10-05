@@ -71,6 +71,18 @@
 
 # 📈 Stats
 
+
+<p align="center">
+    <div style="display: inline-block;margin: auto;">
+        <a href="https://github.com/yashppawar">
+            <img src="https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issue&show_icons=true&theme=gotham" alt="Yash's Github Stats" height="160">
+    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashppawar&theme=onedark&count_private=true&theme=gotham" height=160>
+            <!-- [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issues&show_icons=true&theme=darcula)](https://github.com/yashppawar) -->
+            <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=darcula)](https://github.com/yashppawar) -->
+        </a>
+    </div>
+</p>
+
 <p align="center">
     <a href="https://github.com/YashVardhan-AI">
     	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=YashVardhan-AI&bg_color=0C1014&color=2AA789&line=2AA790&point=fff&area=2AA789">
