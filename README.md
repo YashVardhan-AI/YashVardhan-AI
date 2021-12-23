@@ -36,7 +36,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashVardhan-AI&layout=compact&theme=dark" alt="Yash Vardhan's Top Langs" height="200">
 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Basics-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-HateIt-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/HTML-Basics-DD4A24?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
 [![CSS](https://img.shields.io/badge/CSS-Basics-254BDD?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/default.asp) 
 [![Java](https://img.shields.io/badge/Java-Basics-E51F24?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/) 
