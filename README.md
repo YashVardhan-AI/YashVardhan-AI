@@ -2,7 +2,7 @@
   <tr>
     <th width="50%">
 
-![](hello-there-general-kenobi.gif)
+![](rickroll-rick.gif)
 
 👋 I’m @YashVardhan. <br>
 👀 I'm interested in CS, Physics, Maths & Nature. <br>
