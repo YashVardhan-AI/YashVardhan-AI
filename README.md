@@ -69,13 +69,7 @@
 [![Bash](https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Colab](https://img.shields.io/badge/Google_Colab-FF8C0A?style=for-the-badge&logo=google%20colab&logoColor=white)](https://colab.research.google.com/)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📈 Stats
 
-
-<p align="center">
-    <div style="display: inline-block;margin: auto;">
-        <a href="https://github.com/YashVardhan-AI">
-            <img src="https://github-readme-stats.vercel.app/api?username=YashVardhan-AI&hide=issue&show_icons=true&theme=gotham" alt="Yash's Github Stats" height="160">
     	    
             
       
