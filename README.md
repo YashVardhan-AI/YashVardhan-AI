@@ -76,7 +76,7 @@
     <div style="display: inline-block;margin: auto;">
         <a href="https://github.com/YashVardhan-AI">
             <img src="https://github-readme-stats.vercel.app/api?username=YashVardhan-AI&hide=issue&show_icons=true&theme=gotham" alt="Yash's Github Stats" height="160">
-    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashVardhan-AI&theme=onedark&count_private=false&theme=gotham" height=160>
+    	    
             
       
 
