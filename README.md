@@ -71,7 +71,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvardhan-ai)]
+[![Yash Vardhan Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvardhan-ai)](https://github.com/anuraghazra/github-readme-stats)
     	    
             
       
