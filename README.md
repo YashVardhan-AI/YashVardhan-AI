@@ -33,7 +33,7 @@
 
 
 ## 🗣 Languages
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashVardhan-AI&layout=compact&theme=dark" alt="Yash Vardhan's Top Langs" height="200">
+
 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-HateIt-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
@@ -71,7 +71,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-[![Yash Vardhan Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvardhan-ai)](https://github.com/anuraghazra/github-readme-stats)
     	    
             
       
